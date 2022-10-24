@@ -1,9 +1,12 @@
 body {
   background: #bd1b43
 }
-# título {
+#título {
     text-align: centro;
 }
-# t1 {
+#t1 {
     text-align: esquerda;
+}
+ul{
+display: flex;
 }
