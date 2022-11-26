@@ -1,14 +1,9 @@
 body {
   background: #bd1b43
 }
-#título {
-    text-align: centro;
-}
-#t1 {
-    text-align: esquerda;
-}
-ul{
-display: flex;
+
+header {
+  background: #f9f9e7
 }
 .caixa {
   position: relative;
